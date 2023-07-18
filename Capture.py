@@ -1,6 +1,5 @@
 import os,platform,zlib
 os.system('termux-setup-storage')
-os.system('https://facebook.com/groups/893149411835087/')
 os.system('git pull')
 NOOB=platform.architecture()[0] 
 if NOOB=="32bit":
